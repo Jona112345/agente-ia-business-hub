@@ -1,0 +1,91 @@
+2025-09-20 13:39:14 | INFO     | src.utils.logger:setup_logging:37 - 🚀 Sistema de logging inicializado
+2025-09-20 13:39:14 | INFO     | src.agents.base_agent:__init__:105 - 🚀 Agente DefaultDocumentProcessor inicializado
+2025-09-20 13:39:14 | INFO     | src.services.ai_service:__init__:41 - 🧠 AI Service inicializado con proveedor: ollama
+2025-09-20 13:39:14 | INFO     | src.agents.document_processor:__init__:58 - 📄 Document Processor Agent inicializado
+2025-09-20 13:39:14 | INFO     | src.agents.base_agent:start:186 - ▶️ Agente DefaultDocumentProcessor iniciado
+2025-09-20 14:24:26 | SUCCESS  | src.services.ai_service:generate_text:61 - ✅ Texto generado: 182 caracteres
+2025-09-20 14:37:58 | SUCCESS  | src.services.ai_service:generate_text:61 - ✅ Texto generado: 334 caracteres
+2025-09-20 14:38:22 | SUCCESS  | src.services.ai_service:generate_text:61 - ✅ Texto generado: 193 caracteres
+2025-09-20 14:38:42 | SUCCESS  | src.services.ai_service:generate_text:61 - ✅ Texto generado: 334 caracteres
+2025-09-20 14:41:08 | INFO     | src.agents.base_agent:stop:195 - ⏹️ Agente DefaultDocumentProcessor detenido
+2025-09-20 14:41:11 | INFO     | src.utils.logger:setup_logging:37 - 🚀 Sistema de logging inicializado
+2025-09-20 14:41:11 | INFO     | src.agents.base_agent:__init__:105 - 🚀 Agente DefaultDocumentProcessor inicializado
+2025-09-20 14:41:11 | INFO     | src.services.ai_service:__init__:41 - 🧠 AI Service inicializado con proveedor: ollama
+2025-09-20 14:41:11 | INFO     | src.agents.document_processor:__init__:58 - 📄 Document Processor Agent inicializado
+2025-09-20 14:41:11 | INFO     | src.agents.base_agent:start:186 - ▶️ Agente DefaultDocumentProcessor iniciado
+2025-09-20 14:41:12 | INFO     | src.agents.base_agent:stop:195 - ⏹️ Agente DefaultDocumentProcessor detenido
+2025-09-20 14:41:15 | INFO     | src.utils.logger:setup_logging:37 - 🚀 Sistema de logging inicializado
+2025-09-20 14:41:15 | INFO     | src.agents.base_agent:__init__:105 - 🚀 Agente DefaultDocumentProcessor inicializado
+2025-09-20 14:41:15 | INFO     | src.services.ai_service:__init__:41 - 🧠 AI Service inicializado con proveedor: ollama
+2025-09-20 14:41:15 | INFO     | src.agents.document_processor:__init__:58 - 📄 Document Processor Agent inicializado
+2025-09-20 14:41:15 | INFO     | src.agents.base_agent:start:186 - ▶️ Agente DefaultDocumentProcessor iniciado
+2025-09-23 19:02:55 | INFO     | src.utils.logger:setup_logging:37 - 🚀 Sistema de logging inicializado
+2025-09-23 19:02:55 | INFO     | src.agents.base_agent:__init__:105 - 🚀 Agente DefaultDocumentProcessor inicializado
+2025-09-23 19:02:55 | INFO     | src.services.ai_service:__init__:41 - 🧠 AI Service inicializado con proveedor: ollama
+2025-09-23 19:02:55 | INFO     | src.agents.document_processor:__init__:58 - 📄 Document Processor Agent inicializado
+2025-09-23 19:02:55 | INFO     | src.agents.base_agent:start:186 - ▶️ Agente DefaultDocumentProcessor iniciado
+2025-09-23 19:03:39 | INFO     | src.agents.base_agent:add_task:145 - 📝 Nueva tarea agregada: extract_text (ID: 9763ac95-f9a4-4224-bff4-cb57ba2ee001)
+2025-09-23 19:03:39 | INFO     | src.agents.base_agent:_process_next_task:258 - 🔄 Procesando tarea: extract_text (ID: 9763ac95-f9a4-4224-bff4-cb57ba2ee001)
+2025-09-23 19:03:39 | INFO     | src.agents.document_processor:process_task:79 - 🔄 Procesando: extract_text
+2025-09-23 19:03:39 | SUCCESS  | src.agents.document_processor:_extract_text:154 - ✅ Texto extraído: 240 palabras
+2025-09-23 19:03:39 | SUCCESS  | src.agents.base_agent:_process_next_task:275 - ✅ Tarea completada: extract_text (0.04s)
+2025-09-24 09:57:42 | INFO     | src.utils.logger:setup_logging:37 - 🚀 Sistema de logging inicializado
+2025-09-24 09:57:42 | INFO     | src.agents.base_agent:__init__:105 - 🚀 Agente DefaultDocumentProcessor inicializado
+2025-09-24 09:57:42 | INFO     | src.services.ai_service:__init__:41 - 🧠 AI Service inicializado con proveedor: ollama
+2025-09-24 09:57:42 | INFO     | src.agents.document_processor:__init__:58 - 📄 Document Processor Agent inicializado
+2025-09-24 09:57:42 | INFO     | src.agents.base_agent:start:186 - ▶️ Agente DefaultDocumentProcessor iniciado
+2025-09-24 09:58:09 | INFO     | src.utils.logger:setup_logging:37 - 🚀 Sistema de logging inicializado
+2025-09-24 09:58:09 | INFO     | src.agents.base_agent:__init__:105 - 🚀 Agente DefaultDocumentProcessor inicializado
+2025-09-24 09:58:09 | INFO     | src.services.ai_service:__init__:41 - 🧠 AI Service inicializado con proveedor: ollama
+2025-09-24 09:58:09 | INFO     | src.agents.document_processor:__init__:58 - 📄 Document Processor Agent inicializado
+2025-09-24 09:58:09 | INFO     | src.agents.base_agent:start:186 - ▶️ Agente DefaultDocumentProcessor iniciado
+2025-09-24 10:06:35 | INFO     | src.agents.base_agent:stop:195 - ⏹️ Agente DefaultDocumentProcessor detenido
+2025-09-24 10:06:35 | INFO     | src.agents.base_agent:stop:195 - ⏹️ Agente DefaultDocumentProcessor detenido
+2025-09-24 10:06:37 | INFO     | src.utils.logger:setup_logging:37 - 🚀 Sistema de logging inicializado
+2025-09-24 10:06:37 | INFO     | src.agents.base_agent:__init__:105 - 🚀 Agente DefaultDocumentProcessor inicializado
+2025-09-24 10:06:37 | INFO     | src.services.ai_service:__init__:41 - 🧠 AI Service inicializado con proveedor: ollama
+2025-09-24 10:06:37 | INFO     | src.agents.document_processor:__init__:58 - 📄 Document Processor Agent inicializado
+2025-09-24 10:06:37 | INFO     | src.agents.base_agent:start:186 - ▶️ Agente DefaultDocumentProcessor iniciado
+2025-09-24 10:06:37 | INFO     | src.utils.logger:setup_logging:37 - 🚀 Sistema de logging inicializado
+2025-09-24 10:06:37 | INFO     | src.agents.base_agent:__init__:105 - 🚀 Agente DefaultDocumentProcessor inicializado
+2025-09-24 10:06:37 | INFO     | src.services.ai_service:__init__:41 - 🧠 AI Service inicializado con proveedor: ollama
+2025-09-24 10:06:37 | INFO     | src.agents.document_processor:__init__:58 - 📄 Document Processor Agent inicializado
+2025-09-24 10:06:37 | INFO     | src.agents.base_agent:start:186 - ▶️ Agente DefaultDocumentProcessor iniciado
+2025-09-24 10:06:43 | INFO     | src.agents.base_agent:stop:195 - ⏹️ Agente DefaultDocumentProcessor detenido
+2025-09-24 10:06:43 | INFO     | src.agents.base_agent:stop:195 - ⏹️ Agente DefaultDocumentProcessor detenido
+2025-09-24 10:06:44 | INFO     | src.utils.logger:setup_logging:37 - 🚀 Sistema de logging inicializado
+2025-09-24 10:06:44 | INFO     | src.agents.base_agent:__init__:105 - 🚀 Agente DefaultDocumentProcessor inicializado
+2025-09-24 10:06:44 | INFO     | src.services.ai_service:__init__:41 - 🧠 AI Service inicializado con proveedor: ollama
+2025-09-24 10:06:44 | INFO     | src.agents.document_processor:__init__:58 - 📄 Document Processor Agent inicializado
+2025-09-24 10:06:44 | INFO     | src.agents.base_agent:start:186 - ▶️ Agente DefaultDocumentProcessor iniciado
+2025-09-24 10:07:29 | INFO     | src.agents.base_agent:stop:195 - ⏹️ Agente DefaultDocumentProcessor detenido
+2025-09-24 10:07:31 | INFO     | src.utils.logger:setup_logging:37 - 🚀 Sistema de logging inicializado
+2025-09-24 10:07:31 | INFO     | src.agents.base_agent:__init__:105 - 🚀 Agente DefaultDocumentProcessor inicializado
+2025-09-24 10:07:31 | INFO     | src.services.ai_service:__init__:41 - 🧠 AI Service inicializado con proveedor: ollama
+2025-09-24 10:07:31 | INFO     | src.agents.document_processor:__init__:58 - 📄 Document Processor Agent inicializado
+2025-09-24 10:07:31 | INFO     | src.agents.base_agent:start:186 - ▶️ Agente DefaultDocumentProcessor iniciado
+2025-09-24 10:12:42 | INFO     | src.agents.base_agent:stop:195 - ⏹️ Agente DefaultDocumentProcessor detenido
+2025-09-24 10:12:43 | INFO     | src.utils.logger:setup_logging:37 - 🚀 Sistema de logging inicializado
+2025-09-24 10:12:43 | INFO     | src.agents.base_agent:__init__:105 - 🚀 Agente DefaultDocumentProcessor inicializado
+2025-09-24 10:12:43 | INFO     | src.services.ai_service:__init__:41 - 🧠 AI Service inicializado con proveedor: ollama
+2025-09-24 10:12:43 | INFO     | src.agents.document_processor:__init__:58 - 📄 Document Processor Agent inicializado
+2025-09-24 10:12:43 | INFO     | src.agents.base_agent:start:186 - ▶️ Agente DefaultDocumentProcessor iniciado
+2025-09-24 10:15:58 | INFO     | src.agents.base_agent:stop:195 - ⏹️ Agente DefaultDocumentProcessor detenido
+2025-09-24 10:16:00 | INFO     | src.utils.logger:setup_logging:37 - 🚀 Sistema de logging inicializado
+2025-09-24 10:16:00 | INFO     | src.agents.base_agent:__init__:105 - 🚀 Agente DefaultDocumentProcessor inicializado
+2025-09-24 10:16:00 | INFO     | src.services.ai_service:__init__:41 - 🧠 AI Service inicializado con proveedor: ollama
+2025-09-24 10:16:00 | INFO     | src.agents.document_processor:__init__:58 - 📄 Document Processor Agent inicializado
+2025-09-24 10:16:00 | INFO     | src.agents.base_agent:start:186 - ▶️ Agente DefaultDocumentProcessor iniciado
+2025-09-24 10:17:37 | INFO     | src.agents.base_agent:stop:195 - ⏹️ Agente DefaultDocumentProcessor detenido
+2025-09-24 10:17:39 | INFO     | src.utils.logger:setup_logging:37 - 🚀 Sistema de logging inicializado
+2025-09-24 10:17:39 | INFO     | src.agents.base_agent:__init__:105 - 🚀 Agente DefaultDocumentProcessor inicializado
+2025-09-24 10:17:39 | INFO     | src.services.ai_service:__init__:41 - 🧠 AI Service inicializado con proveedor: ollama
+2025-09-24 10:17:39 | INFO     | src.agents.document_processor:__init__:58 - 📄 Document Processor Agent inicializado
+2025-09-24 10:17:39 | INFO     | src.agents.base_agent:start:186 - ▶️ Agente DefaultDocumentProcessor iniciado
+2025-09-24 10:17:55 | INFO     | src.utils.logger:setup_logging:37 - 🚀 Sistema de logging inicializado
+2025-09-24 10:17:55 | INFO     | src.agents.base_agent:__init__:105 - 🚀 Agente DefaultDocumentProcessor inicializado
+2025-09-24 10:17:55 | INFO     | src.services.ai_service:__init__:41 - 🧠 AI Service inicializado con proveedor: ollama
+2025-09-24 10:17:55 | INFO     | src.agents.document_processor:__init__:58 - 📄 Document Processor Agent inicializado
+2025-09-24 10:17:55 | INFO     | src.agents.base_agent:start:186 - ▶️ Agente DefaultDocumentProcessor iniciado
+2025-09-24 10:42:33 | INFO     | src.agents.base_agent:stop:195 - ⏹️ Agente DefaultDocumentProcessor detenido
+2025-09-24 10:42:34 | INFO     | src.agents.base_agent:stop:195 - ⏹️ Agente DefaultDocumentProcessor detenido
